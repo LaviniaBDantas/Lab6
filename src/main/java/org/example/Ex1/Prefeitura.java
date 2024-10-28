@@ -1,4 +1,4 @@
-package org.example;
+package org.example.Ex1;
 
 public class Prefeitura implements IObservador {
     @Override

@@ -1,5 +1,5 @@
 package org.example.Ex2;
 
-public interface IObserver {
-    public void update(Subject subject);
+public interface IObservador {
+    public void update(Sujeito sujeito);
 }
